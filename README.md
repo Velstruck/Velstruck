@@ -68,10 +68,4 @@
 
 <br clear="both">
 
-<img align="left" height="120" src="https://private-user-images.githubusercontent.com/74038190/290078797-bea7769e-cd87-495f-ad0e-04ddfbb73091.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzc2NDU4NDIsIm5iZiI6MTczNzY0NTU0MiwicGF0aCI6Ii83NDAzODE5MC8yOTAwNzg3OTctYmVhNzc2OWUtY2Q4Ny00OTVmLWFkMGUtMDRkZGZiYjczMDkxLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTIzVDE1MTkwMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTAyNmMyZWI5MGQ1NmFhNDI1ZmVlMjg1N2JhZjZiY2JhZmFhMDUxYjE0MmZjN2JlY2ZjNGQ3M2IzYjM4NzU4ZTYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.pmQr1TGYGKs1QVzulPXulRoc8SE49YwU2HGLS8bovu8"  />
-
-###
-
 <img src="https://raw.githubusercontent.com/Velstruck/Velstruck/output/snake.svg" alt="Snake animation" />
-
-###
