@@ -41,9 +41,9 @@
 </div>
 
 ###
-<div>----------------------------------------</div>
-<div>Currently working on <span><a href="https://github.com/Velstruck/insight-income">Insight Income</a></span></div>
-<div>----------------------------------------</div>
+<div>---------------------------------------------------------</div>      
+<div>Currently working on <span><a href="https://github.com/Velstruck/insight-income">Insight Income</a></span> and <span><a href="https://github.com/Velstruck/stock-talk">Stock Talk</a></span></div>
+<div>---------------------------------------------------------</div>
 <div align="left">
   
   <a href="https://www.linkedin.com/in/vasudev7/" target="_blank">
