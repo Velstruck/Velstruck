@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=cpp" height="34" alt="cplusplus logo"  />
+<!--   <img src="https://skillicons.dev/icons?i=cpp" height="34" alt="cplusplus logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="34" alt="javascript logo"  />
   <img width="10" />
@@ -37,7 +37,7 @@
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="34" alt="vscode logo"  />
   <img width="10" />
-  <img src="https://cdn.simpleicons.org/discord/5865F2" height="34" alt="discord logo"  />
+  <img src="https://cdn.simpleicons.org/discord/5865F2" height="34" alt="discord logo"  /> -->
 </div>
 
 ###
