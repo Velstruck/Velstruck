@@ -42,7 +42,7 @@
 
 ###
 <div>-----------------------------------</div>      
-<div>Currently working on <span><a href="https://github.com/Velstruck/teamsync-app">Teamsync</a></div>
+<div>Currently working on <span><a href="https://github.com/Velstruck/teamsync-app">Teamsync</a> and <a href="https://github.com/Velstruck/Life-OS_next">Life-OS</a></div>
 <div>-----------------------------------</div>
 <div align="left">
   
